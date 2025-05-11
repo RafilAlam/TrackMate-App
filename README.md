@@ -1,6 +1,8 @@
-# TrackMate App-Design
+# 💻TrackMate App
+> 🧮 Keeps track of important quantities and deadlines — Never forget a thing!
 
-## Video Previews
+
+## 🎥 Demo
 
 
 https://github.com/user-attachments/assets/451ed6de-6e59-4fc4-926f-e338d50216bf
