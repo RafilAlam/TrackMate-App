@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafil\\source\\repos\\TrackMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|c:\\users\\rafil\\source\\repos\\trackmate\\trackmate\\todopages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\todopages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\todotab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\todotab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\countertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\countertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\countertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\countertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\todotab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\todotab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\trackmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\trackmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counterrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counterrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\todotab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\todotab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\todopages\\todopage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todopage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counterpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counterpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\todopages\\todoaddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todoaddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\todopages\\todoaddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todoaddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counteraddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counteraddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counteraddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counteraddpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\todopages\\todoaddpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\todopages\\todoaddpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\forms\\countertab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\forms\\countertab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|C:\\Users\\rafil\\source\\repos\\TrackMate\\trackmate\\counterpages\\counterrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F10559E-D316-4B58-9A62-9C65BD8755B9}|TrackMate\\TrackMate.csproj|solutionrelative:trackmate\\counterpages\\counterrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.Designer.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoPage.Designer.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.Designer.cs",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoPage.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T06:25:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoTab.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.Designer.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\ToDoTab.Designer.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.Designer.cs",
+              "RelativeToolTip": "TrackMate\\Forms\\ToDoTab.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-18T06:24:51.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CounterRow.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterRow.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterRow.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterRow.cs",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterRow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-10T08:58:56.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackMate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\TrackMate.cs",
+              "RelativeDocumentMoniker": "TrackMate\\TrackMate.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\TrackMate.cs [Design]",
+              "RelativeToolTip": "TrackMate\\TrackMate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T05:12:34.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoTab.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\ToDoTab.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.cs",
+              "RelativeToolTip": "TrackMate\\Forms\\ToDoTab.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-12T02:50:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterTab.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\CounterTab.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.cs",
+              "RelativeToolTip": "TrackMate\\Forms\\CounterTab.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T13:18:22.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CounterTab.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\CounterTab.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.cs [Design]",
+              "RelativeToolTip": "TrackMate\\Forms\\CounterTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T06:58:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoTab.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\ToDoTab.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\ToDoTab.cs [Design]",
+              "RelativeToolTip": "TrackMate\\Forms\\ToDoTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T06:59:19.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoPage.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.cs",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoPage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T08:04:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoPage.cs [Design]",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T07:45:35.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CounterPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterPage.Designer.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterPage.Designer.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterPage.Designer.cs",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterPage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-10T12:51:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoAddPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.cs [Design]",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoAddPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-17T10:10:33.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CounterAddPage.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterAddPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterAddPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterAddPage.cs",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterAddPage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA3wA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-07T13:15:26.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoAddPage.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoAddPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-17T10:10:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CounterPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterPage.cs [Design]",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-07T13:13:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CounterAddPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterAddPage.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterAddPage.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterAddPage.cs [Design]",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterAddPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-07T13:19:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToDoAddPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.Designer.cs",
+              "RelativeDocumentMoniker": "TrackMate\\ToDoPages\\ToDoAddPage.Designer.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\ToDoPages\\ToDoAddPage.Designer.cs",
+              "RelativeToolTip": "TrackMate\\ToDoPages\\ToDoAddPage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-17T10:10:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CounterTab.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.Designer.cs",
+              "RelativeDocumentMoniker": "TrackMate\\Forms\\CounterTab.Designer.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\Forms\\CounterTab.Designer.cs",
+              "RelativeToolTip": "TrackMate\\Forms\\CounterTab.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAApwDoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-08T14:29:58.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CounterRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterRow.cs",
+              "RelativeDocumentMoniker": "TrackMate\\CounterPages\\CounterRow.cs",
+              "ToolTip": "C:\\Users\\rafil\\source\\repos\\TrackMate\\TrackMate\\CounterPages\\CounterRow.cs [Design]",
+              "RelativeToolTip": "TrackMate\\CounterPages\\CounterRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-10T12:01:23.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
