@@ -18,7 +18,7 @@ By combining these two tools into one streamlined application, users no longer n
 
 The project was developed in C# due to its strong support for Windows desktop applications and ease of development.
 
-The graphical interface was prototyped in Figma before implementation. This allowed me to iterate on the layout and user experience design without writing code prematurely. Visual Studio was chosen as the development environment due to its seamless integration with Windows Forms and robust debugging tools.
+The graphical interface was prototyped in Figma before implementation. This allowed me to iterate on the layout and user experience design without writing code prematurely.
 
 ### Considered Alternatives
 
