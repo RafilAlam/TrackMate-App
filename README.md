@@ -16,7 +16,7 @@ By combining these two tools into one streamlined application, users no longer n
 
 ## Technology Stack and Decisions
 
-The project was initially developed in C# due to its strong support for Windows desktop applications and ease of development. However, during testing and benchmarking, I found that switching to C++ provided better performance, especially in terms of startup speed and memory usage. This decision also gave me more control over data handling and system resources.
+The project was developed in C# due to its strong support for Windows desktop applications and ease of development.
 
 The graphical interface was prototyped in Figma before implementation. This allowed me to iterate on the layout and user experience design without writing code prematurely. Visual Studio was chosen as the development environment due to its seamless integration with Windows Forms and robust debugging tools.
 
