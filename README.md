@@ -1,12 +1,7 @@
 # TRACKMATE
 #### Video Demo:  https://www.youtube.com/watch?v=WEgvcBbyYDI
-#### Description:
 
-# Productivity Desktop Application
-
-This project is a Windows-based productivity tool designed to help users effectively manage their tasks and monitor important personal metrics such as saved money or progress on long-term goals. The application features a user-friendly graphical interface that makes it simple to stay organized, whether you are working on multiple projects or just keeping track of daily responsibilities.
-
-## Project Description
+## Description
 
 The main purpose of this application is to serve as an all-in-one dashboard for personal productivity. It combines the functionalities of a traditional to-do list with a flexible quantity tracking system. Users can input tasks, assign deadlines, and mark items as complete, while also being able to define and update custom quantities like money saved or hours worked.
 
